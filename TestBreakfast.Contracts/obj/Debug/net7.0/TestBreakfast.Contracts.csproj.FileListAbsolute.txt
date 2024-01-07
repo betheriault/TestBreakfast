@@ -1,0 +1,11 @@
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\bin\Debug\net7.0\TestBreakfast.Contracts.deps.json
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\bin\Debug\net7.0\TestBreakfast.Contracts.dll
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\bin\Debug\net7.0\TestBreakfast.Contracts.pdb
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\obj\Debug\net7.0\TestBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\obj\Debug\net7.0\TestBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\obj\Debug\net7.0\TestBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\obj\Debug\net7.0\TestBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\obj\Debug\net7.0\TestBreakfast.Contracts.dll
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\obj\Debug\net7.0\refint\TestBreakfast.Contracts.dll
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\obj\Debug\net7.0\TestBreakfast.Contracts.pdb
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast.Contracts\obj\Debug\net7.0\ref\TestBreakfast.Contracts.dll
