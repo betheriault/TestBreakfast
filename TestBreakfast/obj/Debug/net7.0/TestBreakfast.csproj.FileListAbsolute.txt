@@ -7,9 +7,6 @@ C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.0\TestBreakfast.pdb
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\obj\Debug\net7.0\TestBreakfast.csproj.AssemblyReference.cache
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\obj\Debug\net7.0\TestBreakfast.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\obj\Debug\net7.0\TestBreakfast.AssemblyInfoInputs.cache
@@ -31,3 +28,5 @@ C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\obj\Debug\net7.
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\obj\Debug\net7.0\TestBreakfast.pdb
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\obj\Debug\net7.0\TestBreakfast.genruntimeconfig.cache
 C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\obj\Debug\net7.0\ref\TestBreakfast.dll
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.0\TestBreakfast.Contracts.dll
+C:\Users\Ben\Desktop\Practice\WebAPI\TestBreakfast\TestBreakfast\bin\Debug\net7.0\TestBreakfast.Contracts.pdb
