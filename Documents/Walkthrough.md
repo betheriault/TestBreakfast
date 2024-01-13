@@ -15,3 +15,23 @@ How-to Create TestBreakfast WebAPI
         dotnet add *<ProjectName> reference *<Class.Library>
 
 End of Day 1: Start at 20:46 in Video
+
+5. Create a Model to hold request properties (ex. Breakfast)
+    -This allows for the mapping of the data received by the request to language used by application
+
+6. Create object that converts system data back into API Definition (ex. BreakfastResponse)
+
+7. Create an interface to hold Methods that will define behavior of actions (Create, Upsert, Delete, etc.) (ex. IBreakfastService)
+
+8. Create a class to implement the Methods that are defined in the interface
+
+9. Add definition on how to implement interface in Program.cs (builder.Services.LifetimeOfObjectOption<interface, object>)
+
+End of Day 2: Start at 35:41 in Video
+    
+
+
+
+
+
+
