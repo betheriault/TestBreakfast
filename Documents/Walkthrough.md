@@ -28,7 +28,13 @@ End of Day 1: Start at 20:46 in Video
 9. Add definition on how to implement interface in Program.cs (builder.Services.LifetimeOfObjectOption<interface, object>)
 
 End of Day 2: Start at 35:41 in Video
-    
+
+10. For this exercise, import the ErrorOr Package for Error Handling
+    -dotnet *ProjectName package ErrorOr
+
+11. Create ServiceErrors folder and Errors class within that directory
+    -This will be used to create a library of expected errors from the application (ex. 'Id not Found')
+
 
 
 

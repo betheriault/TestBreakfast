@@ -1,26 +1,41 @@
 using TestBreakfast.Models;
 using TestBreakfast.Services.Breakfasts;
+using ErrorOr;
+using TestBreakfast.ServiceErrors;
 
 public class BreakfastService : IBreakfastService
 {
     private static readonly Dictionary<Guid, Breakfast> _breakfasts = new();
-    public void CreateBreakfast(Breakfast breakfast)
+    public ErrorOr<Created> CreateBreakfast(Breakfast breakfast)
     {
         _breakfasts.Add(breakfast.Id, breakfast);
+
+        return Result.Created;
     }
 
-    void IBreakfastService.DeleteBreakfast(Guid id)
+    public ErrorOr<Deleted> DeleteBreakfast(Guid id)
     {
          _breakfasts.Remove(id);
+         return Result.Deleted;
     }
 
-    Breakfast IBreakfastService.GetBreakfast(Guid id)
+    public ErrorOr<Breakfast> GetBreakfast(Guid id)
     {
-        return _breakfasts[id];
+        
+        if(_breakfasts.TryGetValue(id, out var breakfast))
+        {
+            return _breakfasts[id];
+        }
+
+        return Errors.Breakfast.NotFound;
     }
 
-    void IBreakfastService.UpsertBreakfast(Breakfast breakfast)
+    public ErrorOr<UpsertBreakfast> UpsertBreakfast(Breakfast breakfast)
     {
+       var isNewlyCreated = !_breakfasts.ContainsKey(breakfast.Id);
        _breakfasts[breakfast.Id] = breakfast;
+
+       return new UpsertBreakfast(isNewlyCreated);
+
     }
 }

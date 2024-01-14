@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace TestBreakfast.Controllers;
 
-public class ErrorsController : ControllerBase
+public class ErrorsController : ApiController
 {
     [Route("/error")]
 
